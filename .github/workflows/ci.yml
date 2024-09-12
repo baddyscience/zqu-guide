@@ -28,7 +28,7 @@ jobs:
 
       - name: Deploy Documentation
         env:
-          GH_TOKEN: ${{ secrets.GH_PAT }}  # 确保你的 secret 名称正确
+          GH_PATH: ${{ secrets.GH_PAT }}  # 确保你的 secret 名称正确
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
