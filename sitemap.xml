@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+         <loc>https://baddyscience.github.io/zqu-guide/</loc>
+         <lastmod>2024-09-12</lastmod>
+    </url>
+    <url>
          <loc>https://baddyscience.github.io/zqu-guide/%E5%89%8D%E8%A8%80/</loc>
          <lastmod>2024-09-12</lastmod>
     </url>
