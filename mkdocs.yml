@@ -1,13 +1,11 @@
 site_name: 肇院生存指南
 site_url: https://baddyscience.github.io/zqu-guide/
-site_author: PKUFlyingPig
+site_author: baddyscience
 site_description: >-
   肇院生存指南
 
 repo_name: zqu-survival-guide
 repo_url: https://baddyscience.github.io/zqu-guide/
-
-copyright: Copyright &copy; 2021-present <a href="https://github.com/PKUFlyingPig" target="_blank" rel="noopener noreferrer">PKUFlyingPig</a>
 
 theme:
   name: material
