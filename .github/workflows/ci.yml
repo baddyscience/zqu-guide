@@ -10,13 +10,27 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout Repository
+        uses: actions/checkout@v2
         with:
           fetch-depth: 0
 
-      - uses: actions/setup-python@v2
+      - name: Setup Python
+        uses: actions/setup-python@v2
         with:
           python-version: 3.x
 
-      - run: pip3 install -U -r requirements.txt
-      - run: mkdocs gh-deploy --force
+      - name: Install Dependencies
+        run: pip3 install -U -r requirements.txt
+
+      - name: Build Documentation
+        run: mkdocs build
+
+      - name: Deploy Documentation
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git remote set-url origin https://${GH_PAT}@github.com/${{ github.repository }}.git
+          mkdocs gh-deploy --force
