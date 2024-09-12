@@ -64,5 +64,6 @@ extra:
     property: baddyscience
 
 nav:
+  - Home: index.md
   - 前言: ""
   - 后记: "后记.md"

@@ -11,26 +11,26 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
       - name: Setup Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
-          python-version: 3.x
+          python-version: '3.x'
 
       - name: Install Dependencies
-        run: pip3 install -U -r requirements.txt
+        run: pip install --upgrade pip && pip install -r requirements.txt
 
       - name: Build Documentation
         run: mkdocs build
 
       - name: Deploy Documentation
         env:
-          GH_PAT: ${{ secrets.GH_PAT }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}  # 确保你的 secret 名称正确
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
-          git remote set-url origin https://${GH_PAT}@github.com/${{ github.repository }}.git
-          mkdocs gh-deploy --force
+          git remote set-url origin https://${GH_TOKEN}@github.com/${{ github.repository }}.git
+          mkdocs gh-deploy --force --remote-branch gh-pages
