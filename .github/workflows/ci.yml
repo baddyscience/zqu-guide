@@ -28,9 +28,9 @@ jobs:
 
       - name: Deploy Documentation
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}  # 确保你的 secret 名称正确
+          GH_TOKEN: ${{ secrets.GH_PAT }}  # 确保你的 secret 名称正确
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
-          git remote set-url origin https://${GH_TOKEN}@github.com/${{ github.repository }}.git
+          git remote set-url origin https://${GH_PAT}@github.com/${{ github.repository }}.git
           mkdocs gh-deploy --force --remote-branch gh-pages
