@@ -1,0 +1,58 @@
+site_name: 肇院生存指南
+site_url: https://baddyscience.github.io/zqu-guide/
+site_author: PKUFlyingPig
+site_description: >-
+  肇院生存指南
+
+repo_name: zqu-survival-guide
+repo_url: https://baddyscience.github.io/zqu-guide/
+
+copyright: Copyright &copy; 2021-present <a href="https://github.com/PKUFlyingPig" target="_blank" rel="noopener noreferrer">PKUFlyingPig</a>
+
+theme:
+  name: material
+  language: zh
+  static_templates:
+    - 404.html
+  favicon: images/favicon.ico
+  apple-touch-icon-precomposed: images/mobile_icon.png
+  include_search_page: false
+  search_index_only: true
+
+  features:
+    - header.autohide
+    - navigation.tracking
+    - navigation.top
+    - search.highlight
+    - search.share
+    - search.suggest
+    - content.code.annotate
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: light blue
+      accent: deep purple
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: cyan
+      accent: deep purple
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+  font:
+    text: Roboto Slab
+    code: Roboto Mono
+  icon:
+    repo: fontawesome/brands/github
+
+  custom_dir: overrides
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - footnotes
