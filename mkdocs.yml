@@ -12,7 +12,7 @@ theme:
   language: zh
   static_templates:
     - 404.html
-  favicon: images/favicon.ico
+  favicon: images/1.png
   apple-touch-icon-precomposed: images/1.png
   include_search_page: false
   search_index_only: true
