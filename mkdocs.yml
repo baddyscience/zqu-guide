@@ -11,6 +11,7 @@ theme:
   name: material
   extra_css:
     - Genericons/genericons.css
+    - css/custom.css
   language: zh
   static_templates:
     - 404.html
