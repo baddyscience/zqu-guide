@@ -1,4 +1,4 @@
-# zqu-guide
+# 肇院生存指南
 
 > *无论如何，希望你在这里有美好的一天.*
 
@@ -40,7 +40,7 @@
 特别感谢 ? 为项目制作了精美的 Logo。
 <!--  support by https://contrib.rocks -->
 <a href="https://github.com/baddyscience/zqu-guide/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=PKUFlyingPig/cs-self-learning"/>
+  <img src="https://github.com/baddyscience/zqu-guide"/>
 </a>
 
 来人帮帮我吧(雾?
