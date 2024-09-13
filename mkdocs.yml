@@ -61,9 +61,19 @@ extra:
       link: https://github.com/baddyscience/zqu-guide/
   analytics:
     provider: google
-    property: baddyscience
+    property: G-KJB4RXSKZG 
 
 nav:
   - Home: index.md
-  - 前言: "前言.md"
+  - 生活区:
+    - 好店点评:
+    - 宿舍评价:
+    - 生活技巧:
+  - 学习区:
+    - 工具推荐:
+    - 课程内容:
+    - 实验引导:
+    - 竞赛事项:
+    - 教学资源:
+  - 投稿: ""
   - 后记: "后记.md"
