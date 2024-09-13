@@ -35,7 +35,7 @@
 
 显而易见，本册的内容仍十分空白，远无法实现所描述的功能，作者本人只是计院的学生，尽其所能也不可能能够填充其他学院的内容。
 
-所以，在此号召大家踊跃投稿，点击此处下载<a href="/assets/template.zip" download>*模板*</a>，发送至 [vincentd04@163.com](mailto:vincentd04@163.com)。
+所以，在此号召大家踊跃投稿，点击此处下载<a href="assets/template.zip" download>*模板*</a>，发送至 [vincentd04@163.com](mailto:vincentd04@163.com)。
 
 如果你熟悉Github的操作，也可以进入仓库，点击Fork，通过pull request提交投稿。
 
