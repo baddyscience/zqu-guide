@@ -32,7 +32,10 @@
 
 ## 特别鸣谢
 
-来人帮帮我吧(雾?
+<!--  support by https://contrib.rocks -->
+<a href="https://github.com/baddyscience/zqu-guide/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=baddyscience/zqu-guide"/>
+</a>
 
 ## 我要投稿
 

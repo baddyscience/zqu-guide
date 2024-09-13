@@ -43,4 +43,3 @@
   <img src="https://contrib.rocks/image?repo=baddyscience/zqu-guide"/>
 </a>
 
-来人帮帮我吧(雾?
