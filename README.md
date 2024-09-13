@@ -4,6 +4,10 @@
 
 **使用手册:**[*肇院生存指南*](https://baddyscience.github.io/zqu-guide/)
 
+[![License](https://img.shields.io/github/license/baddyscience/zqu-guide)](https://github.com/baddyscience/zqu-guide/blob/master/LICENSE)
+[![Issues](https://img.shields.io/github/issues/baddyscience/zqu-guide)](https://github.com/baddyscience/zqu-guide/issues)
+[![Stars](https://img.shields.io/github/stars/baddyscience/zqu-guide)](https://github.com/baddyscience/zqu-guide)
+
 ## 前言
 
 无论你是抱着怎样的心情迈入砚园的大门————我明白，她或许有些不尽人意————但生活总是要继续，既然如此，为何不走的更轻松些？
@@ -12,15 +16,15 @@
 
 手册目前包括以下内容：
 
-- 生活区
+- 农夫乐事
     - 好店点评
     - 宿舍评价
     - 生活技巧
-- 学习区
-    - 工具推荐
+- 工具推荐
+- 实验引导
+- 竞赛事项
+- 各级学院内容
     - 课程内容
-    - 实验引导
-    - 竞赛事项
     - 教学资源
 
 ## 为什么会有这本手册？
@@ -33,6 +37,10 @@
 
 ## 特别鸣谢
 
-
+特别感谢 ? 为项目制作了精美的 Logo。
+<!--  support by https://contrib.rocks -->
+<a href="https://github.com/baddyscience/zqu-guide/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=PKUFlyingPig/cs-self-learning"/>
+</a>
 
 来人帮帮我吧(雾?
