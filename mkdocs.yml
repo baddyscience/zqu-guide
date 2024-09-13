@@ -5,7 +5,7 @@ site_description: >-
   肇院生存指南
 
 repo_name: zqu-survival-guide
-repo_url: https://baddyscience.github.io/zqu-guide/
+repo_url: https://github.com/baddyscience/zqu-guide
 
 theme:
   name: material
