@@ -1,0 +1,14 @@
+/* 调整导航栏的样式 */
+.md-nav__item[data-md-level="1"] > .md-nav__link {
+    font-weight: bold;
+}
+
+/* 调整子导航项的样式 */
+.md-nav__item[data-md-level="2"] > .md-nav__link {
+    padding-left: 20px;
+}
+
+/* 调整三级导航项的样式 */
+.md-nav__item[data-md-level="3"] > .md-nav__link {
+    padding-left: 40px;
+}
