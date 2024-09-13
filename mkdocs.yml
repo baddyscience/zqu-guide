@@ -85,6 +85,7 @@ nav:
       - 蓝桥杯: "竞赛事项/蓝桥杯.md"
     - 教学资源:
       - C: "教学资源/c.md"
+  - 模板: "template/template.md"
   - 后记: "后记.md"
 exclude:
   - template.md
