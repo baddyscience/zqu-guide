@@ -63,6 +63,10 @@ extra:
     provider: google
     property: G-KJB4RXSKZG
 
+  plugins:
+    - exclude:
+        files: ["template.md"]
+
 nav:
   - Home: index.md
   - 生活区:
