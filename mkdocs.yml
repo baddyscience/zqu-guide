@@ -9,7 +9,8 @@ repo_url: https://baddyscience.github.io/zqu-guide/
 
 theme:
   name: material
-  extra_css: [assets/Genericons/genericonss.css]
+  extra_css:
+    - Genericons/genericons.css
   language: zh
   static_templates:
     - 404.html
@@ -87,5 +88,4 @@ nav:
       - C: "教学资源/c.md"
   - 模板: "template/template.md"
   - 后记: "后记.md"
-exclude:
-  - template.md
+
