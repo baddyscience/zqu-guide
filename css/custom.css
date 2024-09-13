@@ -12,3 +12,9 @@
 .md-nav__item[data-md-level="3"] > .md-nav__link {
     padding-left: 40px;
 }
+
+.center-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
