@@ -63,9 +63,6 @@ extra:
     provider: google
     property: G-KJB4RXSKZG
 
-  plugins:
-    - exclude:
-        files: ["template.md"]
 
 nav:
   - Home: index.md
@@ -88,3 +85,6 @@ nav:
     - 教学资源:
       - C: "教学资源/c.md"
   - 后记: "后记.md"
+
+exclude:
+  - "template.md"
