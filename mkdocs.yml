@@ -9,6 +9,7 @@ repo_url: https://baddyscience.github.io/zqu-guide/
 
 theme:
   name: material
+  custom_dir: overrides
   extra_css:
     - Genericons/genericons.css
     - css/custom.css
@@ -51,7 +52,7 @@ theme:
   icon:
     repo: fontawesome/brands/github
 
-  custom_dir: overrides
+  
 
 markdown_extensions:
   - attr_list
