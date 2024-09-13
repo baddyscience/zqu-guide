@@ -61,19 +61,26 @@ extra:
       link: https://github.com/baddyscience/zqu-guide/
   analytics:
     provider: google
-    property: G-KJB4RXSKZG 
+    property: G-KJB4RXSKZG
 
 nav:
   - Home: index.md
   - 生活区:
     - 好店点评:
+        - 肯德基: "好店点评/kfc.md"
     - 宿舍评价:
+        - 紫薇宛3: "宿舍评价/zw3.md"
     - 生活技巧:
+        - 赶路: "生活技巧/bike.md"
   - 学习区:
     - 工具推荐:
+      - typora: "工具推荐/typora.md"
     - 课程内容:
+      - C: "课程内容/c.md"
     - 实验引导:
+      - 大数据实验室: "实验引导/大数据实验室.md"
     - 竞赛事项:
+      - 蓝桥杯: "竞赛事项/蓝桥杯.md"
     - 教学资源:
-  - 投稿: ""
+      - C: "教学资源/c.md"
   - 后记: "后记.md"
