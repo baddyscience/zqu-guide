@@ -40,7 +40,8 @@
 
 所以，在此号召大家踊跃投稿，点击此处下载<a href="template/template.zip" download>*模板*</a>，发送至 [vincentd04@163.com](mailto:vincentd04@163.com)。
 
-如果你不会编辑md格式的文件，那么在此推荐[typora](工具推荐/typora/index.html)，它是具有强大的文本编辑功能，操作简洁，可惜是付费软件，但是作者菌相信你自有才能:)。
+如果你不会编辑md格式的文件，那么在此推荐[typora](工具推荐/typora/index.html)，它是具有强大的文本编辑功能，操作简洁，可惜是付费软件，但是作者菌相信你自有才能:)
+
 如果你不想多费心思，可以考虑下载notepad--，它是完全免费且开源的。
 
 如果你熟悉Github的操作，也可以进入仓库，点击Fork，通过pull request提交投稿。
