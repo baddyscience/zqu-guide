@@ -9,6 +9,7 @@ repo_url: https://baddyscience.github.io/zqu-guide/
 
 theme:
   name: material
+  extra_css: [assets/Genericons/genericonss.css]
   language: zh
   static_templates:
     - 404.html
