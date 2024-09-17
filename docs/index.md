@@ -40,7 +40,7 @@
 
 显而易见，本册的内容仍十分空白，远无法实现所描述的功能，作者本人只是计院的学生，尽其所能也不可能能够填充其他学院的内容。
 
-所以，在此号召大家踊跃投稿，点击此处下载<a href="template/template.zip" download>*模板*</a>，发送至 [vincentd04@163.com](mailto:vincentd04@163.com)。
+所以，在此号召大家踊跃投稿，点击此处下载<a href="template/template.zip" download>*模板*</a>，发送至 [vincentd04@163.com](mailto:vincentd04@163.com)或 [GWWeny@163.com](mailto:GWWeny@163.com)。
 
 模板提供的文件为md格式，电脑自带的“文本文档”应用可以正常加载，但如果你想更好应用md格式，那么在此推荐[typora](工具推荐/typora/index.html)，它具有强大的文本编辑功能，操作简洁，体积小巧，可惜是付费软件，不过作者菌相信你自有才能:)
 
