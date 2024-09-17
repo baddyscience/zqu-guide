@@ -7,6 +7,8 @@ site_description: >-
 repo_name: zqu-survival-guide
 repo_url: https://github.com/baddyscience/zqu-guide
 
+copyright: Copyright &copy; <a href="https://github.com/baddyscience/zqu-guide" target="_blank" rel="noopener noreferrer">baddyscience</a>
+
 theme:
   name: material
   custom_dir: overrides
@@ -72,8 +74,10 @@ nav:
   - Home: index.md
   - 好店点评:
       - 肯德基: "好店点评/kfc.md"
+      - 东门兰州拉面: "好店点评/东门兰州拉面.md"
   - 宿舍评价:
       - 紫薇宛3: "宿舍评价/zw3.md"
+      - 力行1: "宿舍评价/力行1栋.md"
   - 生活技巧:
       - 赶路: "生活技巧/bike.md"
       - 图书馆预约操作流程: "生活技巧/图书馆预约.md"
@@ -83,6 +87,7 @@ nav:
   - 竞赛事项:
       - 蓝桥杯: "竞赛事项/蓝桥杯.md"
       - 泰迪杯数据分析: "竞赛事项/泰迪数据分析.md"
+      - 外研社国才杯: "竞赛事项/外研社国才杯.md"
   - 实验引导:
       - 大数据实验室: "实验引导/大数据实验室.md"
       - 软件应用基础实验室: "实验引导/软件应用基础实验室.md"
