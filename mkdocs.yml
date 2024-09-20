@@ -67,8 +67,7 @@ extra:
       link: https://github.com/baddyscience/zqu-guide/
   analytics:
     provider: google
-    property: G-KJB4RXSKZG
-
+    property: G-DKPQFR2HG4
 
 nav:
   - Home: index.md
@@ -95,9 +94,9 @@ nav:
   - 实验引导:
       - 大数据实验室: "实验引导/大数据实验室.md"
       - 软件应用基础实验室: "实验引导/软件应用基础实验室.md"
-  - 公共选修: 
+  - 公共选修:
       - 葡萄酒与生活: "课程内容/葡萄酒与生活.md"
-  - 通识教育: 
+  - 通识教育:
       - 中外音乐鉴赏: "课程内容/中外音乐鉴赏.md"
   - 体育项目: "课程内容/c.md"
   - 经济与管理学院:
