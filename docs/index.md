@@ -43,7 +43,7 @@
 
 所以，在此号召大家踊跃投稿，点击此处下载<a href="template/template.zip" download>*模板*</a>，发送至 [GWWeny@163.com](mailto:GWWeny@163.com) 或 [vincentd04@163.com](mailto:vincentd04@163.com)。
 
-如果你想要在线投稿，欢迎使用<a href="https://f.wps.cn/g/YYh1HA61/" >WPS表单</a>在线投稿。如果有国外的校友投稿(~~真的有吗~~)，<a href="https://docs.google.com/forms/d/e/1FAIpQLSdlhRmS-YEabwyStdim2pm3d-xV_UwwqILdVO5I1-Oi0ECOmw/viewform?usp=pp_url" >*点击此处*</a> 将跳转到GoogleForm，填写表单后点击提交即可。如果是国内的校友但想使用GoogleForm投稿(~~你为什么要这么做~~)，请确保你的网络[**拥有跨越山海的能力**](工具推荐/翻墙/index.html)，
+如果你想要在线投稿，欢迎使用<a href="https://f.wps.cn/g/YYh1HA61/" >*WPS表单*</a>在线投稿。如果有国外的校友投稿( <del>真的有吗</del> )，<a href="https://docs.google.com/forms/d/e/1FAIpQLSdlhRmS-YEabwyStdim2pm3d-xV_UwwqILdVO5I1-Oi0ECOmw/viewform?usp=pp_url" >*点击此处*</a> 将跳转到GoogleForm，填写表单后点击提交即可。如果是国内的校友但想使用GoogleForm投稿( <del>你为什么要这么做</del> )，请确保你的网络[**拥有跨越山海的能力**](工具推荐/翻墙/index.html)，
 
 投稿请务必按照格式进行，若不清楚格式，[*template*](template/template/index.html) 内有详细的表单。
 

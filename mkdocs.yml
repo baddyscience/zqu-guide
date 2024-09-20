@@ -57,6 +57,8 @@ theme:
 
 
 markdown_extensions:
+  - markdown.extensions.smarty
+  - markdown.extensions.extra
   - attr_list
   - md_in_html
   - footnotes
