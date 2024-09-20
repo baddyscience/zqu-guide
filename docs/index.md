@@ -43,6 +43,9 @@
 
 所以，在此号召大家踊跃投稿，点击此处下载<a href="template/template.zip" download>*模板*</a>，发送至 [GWWeny@163.com](mailto:GWWeny@163.com) 或 [vincentd04@163.com](mailto:vincentd04@163.com)。
 
+如果你想要在线投稿，请确保你的网络畅通无阻，[**拥有跨越山海的能力**](工具推荐/翻墙/index.html)，<a href="https://docs.google.com/forms/d/e/1FAIpQLSdlhRmS-YEabwyStdim2pm3d-xV_UwwqILdVO5I1-Oi0ECOmw/viewform?usp=pp_url" >*点击此处*</a> 将跳转到GoogleForm，填写表单后点击提交即可。
+投稿请务必按照格式进行，若不清楚格式，[*template*](template/template/index.html) 内有详细的表单。
+
 模板提供的文件为md格式，电脑自带的“文本文档”应用可以正常加载，但如果你想更好应用md格式，那么在此推荐[typora](工具推荐/typora/index.html)，它具有强大的文本编辑功能，操作简洁，体积小巧，可惜是付费软件，不过作者菌相信你自有才能:)
 
 如果你不想多费心思，可以考虑下载notepad--，它是完全免费且开源的。
