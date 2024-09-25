@@ -34,4 +34,4 @@ Aegis 支持从以下应用中导入令牌，但需要 root 权限。包括：
  - Google Authenticator
  - Steam
 
- 感兴趣的同学可以前往 (GitHub)[https://github.com/beemdevelopment/Aegis] 贡献或研究 Aegis，以及在 (Google Play)[https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis&pli=1] 或 (F-Droid)[https://f-droid.org/en/packages/com.beemdevelopment.aegis] 安装 Aegis。
+ 感兴趣的同学可以前往 [GitHub](https://github.com/beemdevelopment/Aegis) 贡献或研究 Aegis，以及在 [Google Play](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis&pli=1) 或 [F-Droid](https://f-droid.org/en/packages/com.beemdevelopment.aegis) 安装 Aegis。
